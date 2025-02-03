@@ -1,4 +1,8 @@
-ATS System README
+<h1>ATS System</h1>
+
+❌ **Sorry, this project is private!
+<br> 
+
 📌 Overview
 This is an Applicant Tracking System (ATS) built using Python and powered by Google Generative AI for resume parsing and analysis. It extracts data from resumes in PDF or Image format and provides insights using AI.<br/> 
 
@@ -58,3 +62,7 @@ Insights and recommendations are displayed in the Streamlit UI.<br/>
 Support for Word (.docx) files<br/>
 Improved job matching algorithms<br/>
 Database integration for applicant tracking<br/>
+<br/>
+** If you're really interested in this project, you can connect with me to discuss further.  <br>  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) <br>
+
