@@ -64,5 +64,9 @@ Improved job matching algorithms<br/>
 Database integration for applicant tracking<br/>
 <br/>
 ** If you're really interested in this project, you can connect with me to discuss further.  <br>  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) <br>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/)</br>
+
+
+
 
